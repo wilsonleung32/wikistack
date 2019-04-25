@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon /home/daphne/wikistack/app.js"
+    "start": "nodemon /Users/Wilson/wikistack/app.js"
   },
   "name": "wikistack",
   "version": "1.0.0",
